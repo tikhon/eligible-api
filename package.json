@@ -1,6 +1,6 @@
 {
   "name": "eligible-api",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "description": "Implementation of Eligible (https://eligible.com/) REST API",
   "main": "index.js",
   "scripts": {
@@ -15,18 +15,21 @@
     "Eligible",
     "EligibleAPI"
   ],
-  "author": {"name": "BookMD"},
-  "pepole": [{
-    "name": "Matan Lieberman",
-    "email": "matan.libermann@gmail.com"
-  }],
+  "author": {
+    "name": "BookMD"
+  },
+  "pepole": [
+    {
+      "name": "Matan Lieberman",
+      "email": "matan.libermann@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bookmd/eligible-api/issues"
   },
   "homepage": "https://github.com/bookmd/eligible-api",
   "dependencies": {
-    "is-json": "^1.2.5",
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
     "node-simple-schema": "0.0.3"
