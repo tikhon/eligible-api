@@ -12,6 +12,7 @@ Node implementation for Eligible (https://eligible.com/) REST API
 
 ## Install
 `npm install eligible-api`
+Note: Version 0.1.0 is the first stable version, avoid using versions 0.0.x.
 
 ## General
 This package is aimed to help users of EligibleAPI to gain quick, simple and easy access to the REST API services.
